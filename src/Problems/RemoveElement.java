@@ -2,6 +2,7 @@ package Problems;
 
 public class RemoveElement {
     // https://leetcode.com/problems/remove-element/submissions/1192730550?envType=study-plan-v2&envId=top-interview-150
+    // 0 ms Beats 100.00% / 41.77 MB Beats 67.50%
     public int removeElement(int[] numbers, int val) {
         int numsEqValCount = numbers.length;
         for (int i = 0; i < numbers.length; i++) {
