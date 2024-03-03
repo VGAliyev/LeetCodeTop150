@@ -1,3 +1,5 @@
+package Problems;
+
 public class RemoveElement {
     // https://leetcode.com/problems/remove-element/submissions/1192730550?envType=study-plan-v2&envId=top-interview-150
     public int removeElement(int[] numbers, int val) {
